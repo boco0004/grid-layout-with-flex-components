@@ -1,0 +1,23 @@
+.emojis {
+    display: grid;
+}
+
+.emojis .emoji:nth-child(1) {
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+.emojis .emoji:nth-child(2) {
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+.emojis .emoji:nth-child(3) {
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+.emojis .emoji:nth-child(4) {
+    border: 1px solid black;
+    border-radius: 25px;
+}
