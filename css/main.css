@@ -49,9 +49,13 @@ span {
 }
 
 a {
-    display: block;
-    width: 90%;
     background-color: blueviolet;
+    /* display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    width: 90%; */
+    display: inline-block;
+    margin-top: auto;
     padding: 15px;
     border-radius: 5px;
     text-decoration: none;
